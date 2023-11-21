@@ -1,0 +1,33 @@
+body {
+  
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+ 
+  
+}
+header{
+  text-align: center;
+  margin-top: 2em;
+ margin-left:-5em;
+ 
+  
+}
+body h1{
+  text-align:left;
+  margin-left: 2em;
+  
+}
+body p{
+  text-align: left;
+  margin-left: 5em;
+  
+}
+
+body img{
+  margin-left: 5em;
+  margin-bottom: 5em;
+}
+
+
+
+
+
